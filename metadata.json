@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Tarjetas Anki - Francés",
+  "description": "Una aplicación impulsada por IA para generar contenido completo para tarjetas de Anki de francés a partir de cualquier palabra en español, inglés o francés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
